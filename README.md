@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Visualization Dashboard
+# 🎬 Netflix Data Analysis Visualization
 
 ## 📊 Project Overview
 This project explores Netflix data from **2000 to 2020**, analyzing trends in content release, distribution by country, and rating distributions. The project includes **interactive visualizations** using **Plotly Dash**, enabling dynamic exploration of the dataset.
