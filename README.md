@@ -35,7 +35,7 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 - **Visualization Type:** Choropleth Map
 - **Description:** Shows how Netflix content is distributed worldwide.
 - **Interactivity:** Animated by year, hover functionality for country-specific insights.
-
+![Netflix Content Trends](images/newplot25.png)
 
 ### 3️⃣ TV Show & Movie Proportion
 - **Visualization Type:** Pie Chart
