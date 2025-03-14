@@ -36,10 +36,13 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 - **Description:** Shows how Netflix content is distributed worldwide.
 - **Interactivity:** Animated by year, hover functionality for country-specific insights.
 
+
 ### 3️⃣ TV Show & Movie Proportion
 - **Visualization Type:** Pie Chart
 - **Description:** Displays the proportion of TV Shows vs. Movies available on Netflix.
 - **Interactivity:** Hover to see percentage details.
+![Netflix Content Trends](images/newplot15.png)
+
 
 ### 4️⃣ Content Added Over Time by Country
 - **Visualization Type:** Stacked Area Chart
@@ -47,7 +50,8 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 - **Interactivity:** 
   - **Multi-Select Dropdown**: Users can select multiple countries to compare content trends.
   - **Hover Tooltips**: Displays specific content count for each year and country.
-  ![Netflix Content Trends](images/newplot24.png) 
+  ![Netflix Content Trends](images/newplot24.png)
+
 
 
 ## 🚀 Interactive Dashboard
