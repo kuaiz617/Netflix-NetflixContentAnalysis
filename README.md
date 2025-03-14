@@ -1,4 +1,5 @@
 # 🎬 Netflix Data Analysis Visualization
+![Netflix Content Trends](images/Netflix.png)
 
 ## 📊 Project Introduction
 As someone who loves movies and TV shows, I have always been fascinated by the evolution of streaming platforms and how they have changed the way people consume entertainment. This project was an exciting opportunity to explore Netflix’s content library through data analysis and visualization.
