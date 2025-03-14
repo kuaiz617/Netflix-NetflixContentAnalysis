@@ -44,7 +44,9 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 ### 4️⃣ Content Added Over Time by Country
 - **Visualization Type:** Stacked Area Chart
 - **Description:** Compares the number of TV shows and movies added over time for different countries.
-- **Interactivity:** Dropdown filter to select specific countries, hover tooltips for specific year insights.
+- **Interactivity:** 
+  - **Multi-Select Dropdown**: Users can select multiple countries to compare content trends.
+  - **Hover Tooltips**: Displays specific content count for each year and country.
 
 
 ## 🚀 Interactive Dashboard
