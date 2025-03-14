@@ -30,11 +30,13 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 - **Visualization Type:** Line Chart
 - **Description:** Tracks the number of TV shows and movies released per year.
 - **Interactivity:** Hover tooltips for details.
+![Netflix Content Trends](images/newplot14.png)
 
 ### 2️⃣ Geographic Distribution of Netflix Content
 - **Visualization Type:** Choropleth Map
 - **Description:** Shows how Netflix content is distributed worldwide.
 - **Interactivity:** Animated by year, hover functionality for country-specific insights.
+   <br><br>  <!-- 这两个 `<br>` 会增加额外的空行 -->
 ![Netflix Content Trends](images/newplot25.png)
 
 ### 3️⃣ TV Show & Movie Proportion
