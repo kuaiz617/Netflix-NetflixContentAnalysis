@@ -81,7 +81,7 @@ The dataset underwent preprocessing to ensure consistency, handle missing values
   - Retained relevant fields like `type`, `release_year`, `rating`, `country`, and `categories`.
   - Parsed `listed_in` to select only the primary genre for better categorization.
 
-### 📊 Sampling Methodology
+### 💡 Sampling Methodology
 - Focused on data from **2000 to 2020**, as trends became more significant post-2000.
 - Ensured computational efficiency while maintaining meaningful insights.
 
