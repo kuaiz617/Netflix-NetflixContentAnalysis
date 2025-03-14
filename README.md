@@ -8,6 +8,22 @@ Netflix is a leading OTT (Over-the-Top) streaming platform, offering a vast coll
 
 Given this dynamic landscape, understanding Netflix’s content growth and distribution is crucial. This report explores Netflix’s content trends from 2000 to 2020, examining how the platform has expanded its library over time. The insights gained from this study could help in understanding broader streaming industry trends, including content production strategies, genre preferences, and changes in audience engagement. The project includes **interactive visualizations** using **Plotly Dash**, enabling dynamic exploration of the dataset.
 
+## 📂 Data Description
+| Feature   | Description |
+|--------------|------------|
+| **show_id**  | Unique ID for every Movie/TV Show |
+| **type**  | Type of Content: Movie/TV Show |
+| **title** | Name of the Movie/TV Show |
+| **director** | Name of the Director of the Movie/TV Show |
+| **cast** | Actors involved in the Movie/TV Show |
+| **country** | Name of the Countries where the Movie/TV Show is produced |
+| **date_added** | The Date in which the Movie/TV Show was added on Netflix |
+| **release_year** | Original Release Year of the Movie/TV Show |
+| **rating** | Rating of the Movie/TV Show |
+| **duration** | Total Duration of the Movie (in Minutes) or TV Show (in Seasons) |
+| **listed_in** | Genre of the Movie/TV Show |
+| **description** | Summary of the Movie/TV Show |
+
 ## 📊 Implemented Visualizations
 
 ### 1️⃣ Yearly Release Trends
