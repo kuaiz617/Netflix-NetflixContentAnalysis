@@ -51,7 +51,7 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 - **Built with Plotly Dash** for seamless data exploration and interactivity.
 - **Features**:
   - **Dynamic Data Filtering**:
-    - Dropdown selectors allow filtering by content type (Movies/TV Shows) and rating.
+    - Year range slider allows users to filter content dynamically based on the selected time period.
     - Country selection enables trend visualization for specific regions.
   - **Multiple Interactive Visualizations**:
     - **Choropleth Map**: Displays Netflix content distribution across different countries over time.
