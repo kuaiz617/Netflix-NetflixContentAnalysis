@@ -24,7 +24,7 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 | **listed_in** | Genre of the Movie/TV Show |
 | **description** | Summary of the Movie/TV Show |
 
-## 📊 Implemented Visualizations
+## 🎨 Implemented Visualizations
 
 ### 1️⃣ Yearly Release Trends
 - **Visualization Type:** Line Chart
