@@ -91,8 +91,8 @@ This cleaning process allowed for **accurate trend analysis** and ensured that t
 ## 📝 How to Run the Project
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/netflix-dashboard.git
-cd netflix-dashboard
+git clone https://github.com/kuaiz617/Netflix-NetflixContentAnalysis.git
+cd Netflix-NetflixContentAnalysis
 ```
 
 ### 2️⃣ Install Dependencies
@@ -126,7 +126,7 @@ python app.py
 - **Predictive Analytics**: Building a recommendation system based on content trends and user engagement.
 - **Sentiment Analysis**: Examining audience reviews to uncover deeper viewing preferences.
 
-## 🎬 Conclusion
+## 📝 Conclusion
 This project explored **Netflix’s content trends (2000-2020)**, revealing key patterns in **content strategy, production shifts, and rating distributions**. While the study provides meaningful insights, incorporating **external data sources, sentiment analysis, and machine learning models** could further enhance the findings.
 
 As streaming platforms continue to evolve, **data-driven insights** play a crucial role in shaping content strategies. Future research could **broaden scope, incorporate audience feedback, and utilize predictive modeling** to gain a more **comprehensive understanding** of the streaming industry.
