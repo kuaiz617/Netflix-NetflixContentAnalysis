@@ -47,7 +47,7 @@ Given this dynamic landscape, understanding Netflix’s content growth and distr
 - **Interactivity:** 
   - **Multi-Select Dropdown**: Users can select multiple countries to compare content trends.
   - **Hover Tooltips**: Displays specific content count for each year and country.
-![Netflix Dashboard Preview](images/newplot (24).png)
+![Netflix Content Trends](images/newplot (24).png)
 
 ## 🚀 Interactive Dashboard
 - **Built with Plotly Dash** for seamless data exploration and interactivity.
